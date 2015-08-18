@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SportsCarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-08-18T03:14:32" hostname="SG-Song-Qiyue.local" time="0.003">
+  <properties/>
+  <testcase name="shouldDecelerateBy2" classname="SportsCarTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
